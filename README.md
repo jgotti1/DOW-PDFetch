@@ -26,7 +26,7 @@ Requires Express and Node to be installed.
 
 To fetch a PDF file, construct a URL using one of the above paths followed by the name of the PDF file you wish to retrieve, as shown below:
 
-## http://[url]/[pathType]/[filename].pdf ##
+# http://[url]/[pathType]/[filename].pdf #
 
 
 ## Handling 404 Errors
